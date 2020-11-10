@@ -1,0 +1,13 @@
+/home/mitar/git_workspace/Csharp/Hello world/bin/Debug/netcoreapp3.1/Hello world
+/home/mitar/git_workspace/Csharp/Hello world/bin/Debug/netcoreapp3.1/Hello world.deps.json
+/home/mitar/git_workspace/Csharp/Hello world/bin/Debug/netcoreapp3.1/Hello world.runtimeconfig.json
+/home/mitar/git_workspace/Csharp/Hello world/bin/Debug/netcoreapp3.1/Hello world.runtimeconfig.dev.json
+/home/mitar/git_workspace/Csharp/Hello world/bin/Debug/netcoreapp3.1/Hello world.dll
+/home/mitar/git_workspace/Csharp/Hello world/bin/Debug/netcoreapp3.1/Hello world.pdb
+/home/mitar/git_workspace/Csharp/Hello world/obj/Debug/netcoreapp3.1/Hello world.csprojAssemblyReference.cache
+/home/mitar/git_workspace/Csharp/Hello world/obj/Debug/netcoreapp3.1/Hello world.AssemblyInfoInputs.cache
+/home/mitar/git_workspace/Csharp/Hello world/obj/Debug/netcoreapp3.1/Hello world.AssemblyInfo.cs
+/home/mitar/git_workspace/Csharp/Hello world/obj/Debug/netcoreapp3.1/Hello world.csproj.CoreCompileInputs.cache
+/home/mitar/git_workspace/Csharp/Hello world/obj/Debug/netcoreapp3.1/Hello world.dll
+/home/mitar/git_workspace/Csharp/Hello world/obj/Debug/netcoreapp3.1/Hello world.pdb
+/home/mitar/git_workspace/Csharp/Hello world/obj/Debug/netcoreapp3.1/Hello world.genruntimeconfig.cache

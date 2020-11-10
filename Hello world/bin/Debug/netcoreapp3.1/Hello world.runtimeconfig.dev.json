@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/mitar/.dotnet/store/|arch|/|tfm|",
+      "/home/mitar/.nuget/packages"
+    ]
+  }
+}
