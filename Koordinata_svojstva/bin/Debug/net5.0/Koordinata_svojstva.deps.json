@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Koordinata_svojstva/1.0.0": {
+        "runtime": {
+          "Koordinata_svojstva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Koordinata_svojstva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

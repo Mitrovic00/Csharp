@@ -1,0 +1,16 @@
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/bin/Debug/net5.0/Koordinata_svojstva
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/bin/Debug/net5.0/Koordinata_svojstva.deps.json
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/bin/Debug/net5.0/Koordinata_svojstva.runtimeconfig.json
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/bin/Debug/net5.0/Koordinata_svojstva.runtimeconfig.dev.json
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/bin/Debug/net5.0/Koordinata_svojstva.dll
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/bin/Debug/net5.0/ref/Koordinata_svojstva.dll
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/bin/Debug/net5.0/Koordinata_svojstva.pdb
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/obj/Debug/net5.0/Koordinata_svojstva.csprojAssemblyReference.cache
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/obj/Debug/net5.0/Koordinata_svojstva.GeneratedMSBuildEditorConfig.editorconfig
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/obj/Debug/net5.0/Koordinata_svojstva.AssemblyInfoInputs.cache
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/obj/Debug/net5.0/Koordinata_svojstva.AssemblyInfo.cs
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/obj/Debug/net5.0/Koordinata_svojstva.csproj.CoreCompileInputs.cache
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/obj/Debug/net5.0/Koordinata_svojstva.dll
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/obj/Debug/net5.0/ref/Koordinata_svojstva.dll
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/obj/Debug/net5.0/Koordinata_svojstva.pdb
+/home/mitar/git_workspace/Csharp/Koordinata_svojstva/obj/Debug/net5.0/Koordinata_svojstva.genruntimeconfig.cache
