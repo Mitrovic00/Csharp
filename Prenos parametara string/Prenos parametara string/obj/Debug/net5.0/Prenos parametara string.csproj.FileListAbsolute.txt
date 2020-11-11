@@ -1,0 +1,16 @@
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/obj/Debug/net5.0/Prenos parametara string.csprojAssemblyReference.cache
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/obj/Debug/net5.0/Prenos parametara string.GeneratedMSBuildEditorConfig.editorconfig
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/obj/Debug/net5.0/Prenos parametara string.AssemblyInfoInputs.cache
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/obj/Debug/net5.0/Prenos parametara string.AssemblyInfo.cs
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/obj/Debug/net5.0/Prenos parametara string.csproj.CoreCompileInputs.cache
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/bin/Debug/net5.0/Prenos parametara string
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/bin/Debug/net5.0/Prenos parametara string.deps.json
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/bin/Debug/net5.0/Prenos parametara string.runtimeconfig.json
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/bin/Debug/net5.0/Prenos parametara string.runtimeconfig.dev.json
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/bin/Debug/net5.0/Prenos parametara string.dll
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/bin/Debug/net5.0/ref/Prenos parametara string.dll
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/bin/Debug/net5.0/Prenos parametara string.pdb
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/obj/Debug/net5.0/Prenos parametara string.dll
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/obj/Debug/net5.0/ref/Prenos parametara string.dll
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/obj/Debug/net5.0/Prenos parametara string.pdb
+/home/mitar/git_workspace/Csharp/Prenos parametara string/Prenos parametara string/obj/Debug/net5.0/Prenos parametara string.genruntimeconfig.cache
